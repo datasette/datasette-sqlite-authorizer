@@ -1,9 +1,9 @@
 # datasette-sqlite-authorizer
 
 [![PyPI](https://img.shields.io/pypi/v/datasette-sqlite-authorizer.svg)](https://pypi.org/project/datasette-sqlite-authorizer/)
-[![Changelog](https://img.shields.io/github/v/release/simonw/datasette-sqlite-authorizer?include_prereleases&label=changelog)](https://github.com/simonw/datasette-sqlite-authorizer/releases)
-[![Tests](https://github.com/simonw/datasette-sqlite-authorizer/workflows/Test/badge.svg)](https://github.com/simonw/datasette-sqlite-authorizer/actions?query=workflow%3ATest)
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/simonw/datasette-sqlite-authorizer/blob/main/LICENSE)
+[![Changelog](https://img.shields.io/github/v/release/datasette/datasette-sqlite-authorizer?include_prereleases&label=changelog)](https://github.com/datasette/datasette-sqlite-authorizer/releases)
+[![Tests](https://github.com/datasette/datasette-sqlite-authorizer/workflows/Test/badge.svg)](https://github.com/datasette/datasette-sqlite-authorizer/actions?query=workflow%3ATest)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/datasette/datasette-sqlite-authorizer/blob/main/LICENSE)
 
 Configure Datasette to block operations using the SQLite set_authorizer mechanism
 
